@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<movies>
+    <movie>
+        <Title>Batman Begins</Title>
+        <Director>Christopher Nolan</Director>
+        <Actors>Christian Bale, Michael Caine, Liam Neeson </Actors>
+        <Release_Year>2008</Release_Year>
+        <Rating> A </Rating>
+        <Plot> A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns 
+          to Gotham intent on cleaning up the city without resorting to murder. With the help of Alfred (Michael Caine), his loyal butler, and Lucius Fox (Morgan Freeman), a tech expert at Wayne Enterprises, Batman is born. </Plot>
+        <Genre>Action </Genre>
+        <Duration>120 minutes</Duration>
+  </movie>
+  <movie>
+        <Title> The Dark Knight </Title>
+        <Director>Christopher Nolan</Director>
+        <Actors>Christian Bale, Michael Caine,Heath Ledger,Gary Oldman</Actors>
+        <Release_Year>2008</Release_Year>
+        <Rating> A+ </Rating>
+        <Plot>With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City.
+      But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism. </Plot>
+        <Genre>Action </Genre>
+        <Duration> 152 minutes </Duration>
+  </movie>
+  <movie>
+       <Title>The Dark Knight Rises</Title>
+       <Director>Christian Nolan</Director>
+       <Actors>Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Joseph Gordon Levitt</Actors>
+       <Release_Year>2012</Release_Year>
+       <Rating>B+</Rating>
+       <Plot>It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However,
+      the arrival of a cunning cat burglar (Anne Hathaway) and a merciless terrorist named Bane (Tom Hardy) force Batman out of exile and into a battle he may not be able to win </Plot>
+       <Genre>Action</Genre>
+       <Duration>165 minutes</Duration>
+  </movie>
+</movies>
