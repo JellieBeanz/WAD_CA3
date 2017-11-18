@@ -1,5 +1,5 @@
 {
-  "name": "wad-simple-demo",
+  "name": "WAD_CA3",
   "version": "1.0.0",
   "description": "demo app to make AJAX requests to load results of XSL transformation and send POST requests to add new information to JSON and XML files",
   "main": "app.js",
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikhail-nci/wad-simple-demo.git"
+    "url": "git+https://github.com/JellieBeanz/WAD_CA3.git"
   },
-  "author": "Mikhail",
-  "homepage": "https://github.com/mikhail-nci/wad-simple-demo#readme"
+  "author": "Craig, Richard, Shanne",
+  "homepage": "https://github.com/JellieBeanz/WAD_CA3.git"
 }
