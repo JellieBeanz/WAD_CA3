@@ -42,7 +42,7 @@ router.post('/post/json', function(req, res) {
   function appendJSON(obj) {
 
     // Read in a JSON file
-    var JSONfile = fs.readFileSync('Countries.json', 'utf8');
+    var JSONfile = fs.readFileSync('movies.json', 'utf8');
 
     // Parse the JSON file in order to be able to edit it 
     var JSONparsed = JSON.parse(JSONfile);
@@ -54,10 +54,10 @@ router.post('/post/json', function(req, res) {
     var JSONformated = JSON.stringify(JSONparsed, null, 4);
 
     // Write the updated JSON file back to the system 
-    fs.writeFileSync('Countries.json', JSONformated);
+    fs.writeFileSync('movies.json', JSONformated);
 
     // Convert the updated JSON file to XML     
-    var XMLformated = js2xmlparser.parse("countries", JSON.parse(JSONformated));
+    var XMLformated = js2xmlparser.parse("movies", JSON.parse(JSONformated));
 
     // Write the resulting XML back to the system
     fs.writeFileSync('movies.xml', XMLformated);
