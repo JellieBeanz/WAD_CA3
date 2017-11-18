@@ -134,4 +134,24 @@
   <Genre>Drama</Genre>
   <Duration>195 minutes</Duration>
   </movie>
+<movie>
+        <Title>Leaving Las Vegas</Title>
+        <Director>Mike Figgis</Director>
+        <Actors>Nicolas Cage, Elisabeth Shue, Julian Sands</Actors>
+        <Release_Year>1995</Release_Year>
+        <Rating> A </Rating>
+        <Plot> Adapted from the novel by John O'Brien, this acclaimed drama follows alcoholic screenwriter Ben Sanderson (Nicolas Cage) as he drinks himself into oblivion in Las Vegas. When Ben meets the beautiful prostitute Sera (Elisabeth Shue), they strike up an unconventional relationship -- one where she can't ask him to curb his drinking, and he can't fault her for her job. Though they offer each other support, Ben's self-destruction threatens to eclipse their bond.</Plot>
+        <Genre>Drama</Genre>
+        <Duration>112 minutes</Duration>
+  </movie>
+<movie>
+        <Title>The Drop</Title>
+        <Director>Michaël R. Roskam</Director>
+        <Actors>Tom Hardy, Noomi Rapace, James Gandolfini</Actors>
+        <Release_Year>2014</Release_Year>
+        <Rating> A </Rating>
+        <Plot>Bob Saginowski (Tom Hardy) tends bar in his cousin's pub and looks the other way when local mobsters use the joint as a temporary bank. His simple life takes a complicated turn when he finds a battered puppy. He asks his neighbor, Nadia (Noomi Rapace), for help nursing it back to health, and a mutual attraction sparks between them. However, a robbery at the bar and the return of Nadia's abusive ex force Bob to face the truth about those he thinks he knows best -- including himself.</Plot>
+        <Genre>Drama</Genre>
+        <Duration>106 minutes</Duration>
+  </movie>
 </movies>
