@@ -1,157 +1,162 @@
-<?xml version='1.0'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <movies>
-    <movie>
-        <Title>Batman Begins</Title>
-        <Director>Christopher Nolan</Director>
-        <Actors>Christian Bale, Michael Caine, Liam Neeson </Actors>
-        <Release_Year>2008</Release_Year>
-        <Rating> A </Rating>
-        <Plot> A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns 
+  <movie>
+    <Title>Batman Begins</Title>
+    <Director>Christopher Nolan</Director>
+    <Actors>Christian Bale, Michael Caine, Liam Neeson </Actors>
+    <Release_Year>2008</Release_Year>
+    <Rating> A </Rating>
+    <Plot> A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns 
           to Gotham intent on cleaning up the city without resorting to murder. With the help of Alfred (Michael Caine), his loyal butler, and Lucius Fox (Morgan Freeman), a tech expert at Wayne Enterprises, Batman is born. </Plot>
-        <Genre>Action </Genre>
-        <Duration>120 minutes</Duration>
+    <Genre>Action </Genre>
+    <Duration>120 minutes</Duration>
   </movie>
   <movie>
-        <Title> The Dark Knight </Title>
-        <Director>Christopher Nolan</Director>
-        <Actors>Christian Bale, Michael Caine,Heath Ledger,Gary Oldman</Actors>
-        <Release_Year>2008</Release_Year>
-        <Rating> A+ </Rating>
-        <Plot>With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City.
+    <Title> The Dark Knight </Title>
+    <Director>Christopher Nolan</Director>
+    <Actors>Christian Bale, Michael Caine,Heath Ledger,Gary Oldman</Actors>
+    <Release_Year>2008</Release_Year>
+    <Rating> A+ </Rating>
+    <Plot>With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City.
       But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism. </Plot>
-        <Genre>Action </Genre>
-        <Duration> 152 minutes </Duration>
+    <Genre>Action </Genre>
+    <Duration> 152 minutes </Duration>
   </movie>
   <movie>
-       <Title>The Dark Knight Rises</Title>
-       <Director>Christian Nolan</Director>
-       <Actors>Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Joseph Gordon Levitt</Actors>
-       <Release_Year>2012</Release_Year>
-       <Rating>B+</Rating>
-       <Plot>It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However,
+    <Title>The Dark Knight Rises</Title>
+    <Director>Christian Nolan</Director>
+    <Actors>Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Joseph Gordon Levitt</Actors>
+    <Release_Year>2012</Release_Year>
+    <Rating>B+</Rating>
+    <Plot>It has been eight years since Batman (Christian Bale), in collusion with Commissioner Gordon (Gary Oldman), vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he and Gordon hoped would be the greater good. However,
       the arrival of a cunning cat burglar (Anne Hathaway) and a merciless terrorist named Bane (Tom Hardy) force Batman out of exile and into a battle he may not be able to win </Plot>
-       <Genre>Action</Genre>
-       <Duration>165 minutes</Duration>
+    <Genre>Action</Genre>
+    <Duration>165 minutes</Duration>
   </movie>
-   <movie>
-        <Title>Star Wars A New Hope</Title>
-        <Director>George Lucas</Director>
-        <Actors>Mark Hamil,Harrison Ford,Carrie Fisher</Actors>
-        <Release_Year>March 26, 1978</Release_Year>
-        <Rating>A+</Rating>
-        <Plot>The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage,
+  <movie>
+    <Title>Star Wars A New Hope</Title>
+    <Director>George Lucas</Director>
+    <Actors>Mark Hamil,Harrison Ford,Carrie Fisher</Actors>
+    <Release_Year>March 26, 1978</Release_Year>
+    <Rating>A+</Rating>
+    <Plot>The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage,
 		in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) 
 		to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.  </Plot>
-        <Genre>Sci-Fi</Genre>
-        <Duration>121 minutes</Duration>
+    <Genre>Sci-Fi</Genre>
+    <Duration>121 minutes</Duration>
   </movie>
   <movie>
-  <Title>Terminator</Title>
-  <Director>James Cameron</Director>
-  <Actors>Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Bill Paxton</Actors>
-  <Release_Year>May 17, 1985</Release_Year>
-  <Rating>B+</Rating>
-  <Plot> Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael Biehn), who divulges the coming of Skynet, an artificial intelligence system that will spark a nuclear holocaust. Sarah is targeted because Skynet knows that her unborn son will
+    <Title>Terminator</Title>
+    <Director>James Cameron</Director>
+    <Actors>Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Bill Paxton</Actors>
+    <Release_Year>May 17, 1985</Release_Year>
+    <Rating>B+</Rating>
+    <Plot> Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael Biehn), who divulges the coming of Skynet, an artificial intelligence system that will spark a nuclear holocaust. Sarah is targeted because Skynet knows that her unborn son will
   lead the fight against them. With the virtually 
   unstoppable Terminator in hot pursuit, she and Kyle attempt to escape.</Plot>
-  <Genre>Action</Genre>
-  <Duration>107 minutes</Duration>
+    <Genre>Action</Genre>
+    <Duration>107 minutes</Duration>
   </movie>
-  
   <movie>
-  <Title>Ted</Title>
-  <Director>Seth MacFarlane</Director>
-  <Actors>Mark Wahlberg,Mila Kunis,Seth MacFarlane,Jessica Barth</Actors>
-  <Release_Year>August 1, 2012</Release_Year>
-  <Rating>B</Rating>
-  <Plot>When John Bennett (Mark Wahlberg) was a little boy, he made a wish that Ted (Seth MacFarlane), his beloved teddy bear, would come alive. Thirty years later, foul-mouthed Ted is still John's constant companion, much to the chagrin of Lori (Mila Kunis), John's girlfriend. Though Lori's displeasure is exacerbated by the pair's constant consumption of beer and weed, she's not the
+    <Title>Ted</Title>
+    <Director>Seth MacFarlane</Director>
+    <Actors>Mark Wahlberg,Mila Kunis,Seth MacFarlane,Jessica Barth</Actors>
+    <Release_Year>August 1, 2012</Release_Year>
+    <Rating>B</Rating>
+    <Plot>When John Bennett (Mark Wahlberg) was a little boy, he made a wish that Ted (Seth MacFarlane), his beloved teddy bear, would come alive. Thirty years later, foul-mouthed Ted is still John's constant companion, much to the chagrin of Lori (Mila Kunis), John's girlfriend. Though Lori's displeasure is exacerbated by the pair's constant consumption of beer and weed, she's not the
   one who's most disappointed with John; it may 
   take the intervention of John's boyhood toy to help him grow up at last.</Plot>
-  <Genre>Comedy</Genre>
-  <Duration>106 minutes </Duration>
+    <Genre>Comedy</Genre>
+    <Duration>106 minutes </Duration>
   </movie>
-  
   <movie>
-  <Title>Saving Private Ryan</Title>
-  <Director>Steven Spielberg</Director>
-  <Actors>Tom Hanks,Matt Damon,Vin Diesel,Tom Sizemore,Edward Burns</Actors>
-  <Release_Year>July 24, 1998</Release_Year>
-  <Rating>A</Rating>
-  <Plot>  Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a 
+    <Title>Saving Private Ryan</Title>
+    <Director>Steven Spielberg</Director>
+    <Actors>Tom Hanks,Matt Damon,Vin Diesel,Tom Sizemore,Edward Burns</Actors>
+    <Release_Year>July 24, 1998</Release_Year>
+    <Rating>A</Rating>
+    <Plot>  Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a 
   personal journey and discovers their 
   own strength to triumph over an uncertain future with honor, decency and courage</Plot>
-  <Genre>Drama</Genre>
-  <Duration>169 minutes</Duration>
+    <Genre>Drama</Genre>
+    <Duration>169 minutes</Duration>
   </movie>
- <movie>
-        <Title>Tears of Sun</Title>
-        <Director>Antoine Fuqua</Director>
-        <Actors>Bruce Willis,Cole Hauser,Monica Bellucci,Johnny Messner,Eamonn Walker</Actors>
-        <Release_Year>March 3 2003</Release_Year>
-        <Rating>B</Rating>
-        <Plot>The Nigerian government has fallen, and the country is on the verge of civil war. Lt. A.K. Waters (Bruce Willis) has been assigned to lead a team of soldiers into the Nigerian jungle to rescue Dr. Lena Kendricks (Monica Bellucci). When Waters and his team locate Kendricks, she tells them she won't leave her helpless patients to be slaughtered by rebels. The team incurs the wrath of both U.S. and Nigerian
+  <movie>
+    <Title>Tears of Sun</Title>
+    <Director>Antoine Fuqua</Director>
+    <Actors>Bruce Willis,Cole Hauser,Monica Bellucci,Johnny Messner,Eamonn Walker</Actors>
+    <Release_Year>March 3 2003</Release_Year>
+    <Rating>B</Rating>
+    <Plot>The Nigerian government has fallen, and the country is on the verge of civil war. Lt. A.K. Waters (Bruce Willis) has been assigned to lead a team of soldiers into the Nigerian jungle to rescue Dr. Lena Kendricks (Monica Bellucci). When Waters and his team locate Kendricks, she tells them she won't leave her helpless patients to be slaughtered by rebels. The team incurs the wrath of both U.S. and Nigerian
 		forces when they side with Kendricks
 		and attempt to march the refugees to safety. </Plot>
-        <Genre>Action</Genre>
-        <Duration>121 minutes</Duration>
+    <Genre>Action</Genre>
+    <Duration>121 minutes</Duration>
   </movie>
-  
   <movie>
-  <Title>Furious 7</Title>
-  <Director>James Wan</Director>
-  <Actors>Paul Walker,Vin Diesel,Dwayne Johnson,Jason Statham,Michelle Rodriguez,Tyrese Gibson</Actors>
-  <Release_Year>April 3 2015</Release_Year>
-  <Rating>B</Rating>
-  <Plot> After defeating international terrorist Owen Shaw, Dominic Toretto (Vin Diesel), Brian O'Conner (Paul Walker) and the rest of the crew have separated 
+    <Title>Furious 7</Title>
+    <Director>James Wan</Director>
+    <Actors>Paul Walker,Vin Diesel,Dwayne Johnson,Jason Statham,Michelle Rodriguez,Tyrese Gibson</Actors>
+    <Release_Year>April 3 2015</Release_Year>
+    <Rating>B</Rating>
+    <Plot> After defeating international terrorist Owen Shaw, Dominic Toretto (Vin Diesel), Brian O'Conner (Paul Walker) and the rest of the crew have separated 
   to return to more normal lives. However, Deckard Shaw (Jason Statham), Owen's older brother, is thirsty for revenge. A slick government agent offers to help Dom and company take care of Shaw in exchange for their help in rescuing a 
   kidnapped computer hacker who has developed a powerful surveillance program.</Plot>
-  <Genre>Action</Genre>
-  <Duration>137 minutes</Duration>
+    <Genre>Action</Genre>
+    <Duration>137 minutes</Duration>
   </movie>
-  
   <movie>
-  <Title>Warcraft</Title>
-  <Director>Duncan Jones</Director>
-  <Actors>Travis Fimmel,Paula Patton,Toby Kebbell,Ben Foster,Dominic Cooper</Actors>
-  <Release_Year>May 30 2016</Release_Year>
-  <Rating>C</Rating>
-  <Plot>Looking to escape from his dying world, the orc shaman Gul'dan utilizes dark 
+    <Title>Warcraft</Title>
+    <Director>Duncan Jones</Director>
+    <Actors>Travis Fimmel,Paula Patton,Toby Kebbell,Ben Foster,Dominic Cooper</Actors>
+    <Release_Year>May 30 2016</Release_Year>
+    <Rating>C</Rating>
+    <Plot>Looking to escape from his dying world, the orc shaman Gul'dan utilizes dark 
   magic to open a portal to the human realm of Azeroth. Supported by the fierce fighter Blackhand, Gul'dan organizes the orc clans into a conquering army called the Horde. Uniting to protect Azeroth from these hulking invaders are King Llane, the mighty warrior Anduin Lothar (Travis Fimmel) and the powerful wizard Medivh. As the two races collide, 
   leaders from each side start to question if war is the only answer.</Plot>
-  <Genre>Fantasy</Genre>
-  <Duration>123 minutes</Duration>
+    <Genre>Fantasy</Genre>
+    <Duration>123 minutes</Duration>
   </movie>
-  
   <movie>
-  <Title>Schindlers List</Title>
-  <Director>Steven Spielberg</Director>
-  <Actors>Liam Neeson,Ralph Fiennes,Ben Kingsley,Embeth Davidtz</Actors>
-  <Release_Year>March 4 1994</Release_Year>
-  <Rating>A+</Rating>
-  <Plot>Businessman Oskar Schindler (Liam Neeson) arrives in Krakow in 1939, ready to
+    <Title>Schindlers List</Title>
+    <Director>Steven Spielberg</Director>
+    <Actors>Liam Neeson,Ralph Fiennes,Ben Kingsley,Embeth Davidtz</Actors>
+    <Release_Year>March 4 1994</Release_Year>
+    <Rating>A+</Rating>
+    <Plot>Businessman Oskar Schindler (Liam Neeson) arrives in Krakow in 1939, ready to
   make his fortune from World War II, which has just started. After joining the Nazi party primarily for political expediency, he staffs his factory with Jewish workers for similarly pragmatic reasons. When the SS begins exterminating Jews in the Krakow ghetto, Schindler arranges to have his workers protected to keep his factory in operation, 
   but soon realizes that in so doing, he is also saving innocent lives.</Plot>
-  <Genre>Drama</Genre>
-  <Duration>195 minutes</Duration>
+    <Genre>Drama</Genre>
+    <Duration>195 minutes</Duration>
   </movie>
-<movie>
-        <Title>Leaving Las Vegas</Title>
-        <Director>Mike Figgis</Director>
-        <Actors>Nicolas Cage, Elisabeth Shue, Julian Sands</Actors>
-        <Release_Year>1995</Release_Year>
-        <Rating> A </Rating>
-        <Plot> Adapted from the novel by John O'Brien, this acclaimed drama follows alcoholic screenwriter Ben Sanderson (Nicolas Cage) as he drinks himself into oblivion in Las Vegas. When Ben meets the beautiful prostitute Sera (Elisabeth Shue), they strike up an unconventional relationship -- one where she can't ask him to curb his drinking, and he can't fault her for her job. Though they offer each other support, Ben's self-destruction threatens to eclipse their bond.</Plot>
-        <Genre>Drama</Genre>
-        <Duration>112 minutes</Duration>
+  <movie>
+    <Title>Leaving Las Vegas</Title>
+    <Director>Mike Figgis</Director>
+    <Actors>Nicolas Cage, Elisabeth Shue, Julian Sands</Actors>
+    <Release_Year>1995</Release_Year>
+    <Rating> A </Rating>
+    <Plot> Adapted from the novel by John O'Brien, this acclaimed drama follows alcoholic screenwriter Ben Sanderson (Nicolas Cage) as he drinks himself into oblivion in Las Vegas. When Ben meets the beautiful prostitute Sera (Elisabeth Shue), they strike up an unconventional relationship -- one where she can't ask him to curb his drinking, and he can't fault her for her job. Though they offer each other support, Ben's self-destruction threatens to eclipse their bond.</Plot>
+    <Genre>Drama</Genre>
+    <Duration>112 minutes</Duration>
   </movie>
-<movie>
-        <Title>The Drop</Title>
-        <Director>Michaël R. Roskam</Director>
-        <Actors>Tom Hardy, Noomi Rapace, James Gandolfini</Actors>
-        <Release_Year>2014</Release_Year>
-        <Rating> A </Rating>
-        <Plot>Bob Saginowski (Tom Hardy) tends bar in his cousin's pub and looks the other way when local mobsters use the joint as a temporary bank. His simple life takes a complicated turn when he finds a battered puppy. He asks his neighbor, Nadia (Noomi Rapace), for help nursing it back to health, and a mutual attraction sparks between them. However, a robbery at the bar and the return of Nadia's abusive ex force Bob to face the truth about those he thinks he knows best -- including himself.</Plot>
-        <Genre>Drama</Genre>
-        <Duration>106 minutes</Duration>
+  <movie>
+    <Title>The Drop</Title>
+    <Director>Michael R. Roskam</Director>
+    <Actors>Tom Hardy, Noomi Rapace, James Gandolfini</Actors>
+    <Release_Year>2014</Release_Year>
+    <Rating> A </Rating>
+    <Plot>Bob Saginowski (Tom Hardy) tends bar in his cousin's pub and looks the other way when local mobsters use the joint as a temporary bank. His simple life takes a complicated turn when he finds a battered puppy. He asks his neighbor, Nadia (Noomi Rapace), for help nursing it back to health, and a mutual attraction sparks between them. However, a robbery at the bar and the return of Nadia's abusive ex force Bob to face the truth about those he thinks he knows best -- including himself.</Plot>
+    <Genre>Drama</Genre>
+    <Duration>106 minutes</Duration>
+  </movie>
+  <movie>
+    <Title>8</Title>
+    <Director>7</Director>
+    <Actors>6</Actors>
+    <Release_Year>5</Release_Year>
+    <Rating>4</Rating>
+    <Plot>3</Plot>
+    <Genre>2</Genre>
+    <Duration>1</Duration>
   </movie>
 </movies>
