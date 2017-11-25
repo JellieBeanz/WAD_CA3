@@ -18,7 +18,7 @@
  			  </style>
  			</head>
  			<body>
- 				<table>
+ 				<table id="table">
  					<tr>
  						<th>Title</th>
  						<th>Director</th>
@@ -30,7 +30,8 @@
  						<th>Duration</th>
  					</tr>
  					<xsl:for-each select="movies/movie">
- 							<tr>
+			
+ 							<tr id="{position()}">
  								<td>
  									<xsl:value-of select="Title"/>
  								</td>
