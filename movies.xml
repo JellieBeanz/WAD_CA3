@@ -159,4 +159,24 @@
     <Genre>2</Genre>
     <Duration>1</Duration>
   </movie>
+  <movie>
+    <Title/>
+    <Director/>
+    <Actors/>
+    <Release_Year/>
+    <Rating/>
+    <Plot/>
+    <Genre/>
+    <Duration/>
+  </movie>
+  <movie>
+    <Title>iaugsdidu</Title>
+    <Director>qw</Director>
+    <Actors>ew</Actors>
+    <Release_Year>ewe</Release_Year>
+    <Rating>ewe</Rating>
+    <Plot>ew</Plot>
+    <Genre>wew</Genre>
+    <Duration>wew</Duration>
+  </movie>
 </movies>
