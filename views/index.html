@@ -37,6 +37,45 @@
       color: #FFF;
     }
     
+    
+    
+    
+    
+    
+
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: silver;
+}
+
+.active {
+   background-color:rgba(0, 0, 0, 0.5);
+}
+
+    
+    
+    
+    
+    
   </style>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
@@ -71,8 +110,8 @@
 <body>
   
   <ul>
-  <li><a class="active" href="Home.html">Home</a></li>
-  <li><a href="index.html">Archive</a></li>
+  <li><a href="Home.html">Home</a></li>
+  <li><a class="active" ref="index.html">Archive</a></li>
 </ul>
   
   
