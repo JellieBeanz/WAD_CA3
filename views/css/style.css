@@ -13,4 +13,11 @@ tr:active{
   background-color:#b2e8d5;
 }
 
-ul
+body{
+  background-image : url("images/background1.jpg");
+}
+
+table {
+  background-color : white;
+}
+h1 {Background-color : white;}
