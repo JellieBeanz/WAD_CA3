@@ -2,7 +2,7 @@
 <html lang="en" ng-app>
 
 <head>
-  <title>Best Movies!!!</title>
+  <title>Archive</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
@@ -68,7 +68,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-   background-color:rgba(0, 0, 0, 0.5);
+   background-color:rgb(178, 232, 213);
 }
 
     
@@ -105,6 +105,23 @@ li a:hover:not(.active) {
       load();
     });
   </script>
+<!-- 	/*<script>
+	function getId(url) {
+    var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+    var match = url.match(regExp);
+
+    if (match && match[2].length == 11) {
+      	  return match[2];
+   		 	} else {
+        	return 'error';
+  		 	 }
+			}
+	
+				var videoId = getId('http://www.youtube.com/watch?v=zbYf5_S7oJo');
+
+			var iframeMarkup = '<iframe width="560" height="315" src="//www.youtube.com/embed/' 
+    + videoId + '" frameborder="0" allowfullscreen></iframe>'
+	</script>*/ -->
 </head>
 
 <body>
@@ -148,7 +165,7 @@ li a:hover:not(.active) {
               <div class="field">
                 <input type="text" name="Rating" placeholder="Rating">
               </div>
-              <div class="field">
+              <div id=url>
                 <input type="text" name="Plot" placeholder="Plot">
               </div>
               <div class="field">

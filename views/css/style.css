@@ -5,3 +5,12 @@
 #delete {
     float:right;
 }
+tr:hover{
+  background-color:#c9e0d8;
+  
+}
+tr:active{
+  background-color:#b2e8d5;
+}
+
+ul
