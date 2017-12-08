@@ -66,15 +66,11 @@ li a:hover:not(.active) {
    background-color:rgb(178, 232, 213);
 }
 
-    
-    
-    
-    
-    
-  </style>
-  <script src="/js/jquery.min.js"></script>
+    </style>
+
+	<script src="/js/jquery.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
-  <script>
+ <script>
     function load() {
       $.ajax({
         url: "/get/html",
@@ -95,28 +91,31 @@ li a:hover:not(.active) {
         }
       });
     };
-
     $(document).ready(function() {
       load();
     });
   </script>
-<!-- 	/*<script>
-	function getId(url) {
-    var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
-    var match = url.match(regExp);
+	<script>
+		function myFunction() {
+  		var input, filter, table, tr, td, i;
+ 		 input = document.getElementById("myInput");
+  	filter = input.value.toUpperCase();
+  	table = document.getElementById("table");
+  	tr = table.getElementsByTagName("tr");
+  		for (i = 0; i < tr.length; i++) {
+    	td = tr[i].getElementsByTagName("td")[0];
+    		if (td) {
+      	if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+     	 } else {
+       	 tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+ 
 
-    if (match && match[2].length == 11) {
-      	  return match[2];
-   		 	} else {
-        	return 'error';
-  		 	 }
-			}
-	
-				var videoId = getId('http://www.youtube.com/watch?v=zbYf5_S7oJo');
-
-			var iframeMarkup = '<iframe width="560" height="315" src="//www.youtube.com/embed/' 
-    + videoId + '" frameborder="0" allowfullscreen></iframe>'
-	</script>*/ -->
 </head>
 
 <body>
@@ -133,8 +132,10 @@ li a:hover:not(.active) {
       <h1>Top Movies</h1>
     </div>
     <a class="btn btn-default" href="#" data-featherlight=".lightbox">Submit a movie</a>
+		
 		<button id="delete">Delete</button>
     <br>
+		<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for a Title..." title="Search for a title">
     <div class="row">
       <div id="results" class="span8">
       </div>

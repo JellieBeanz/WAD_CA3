@@ -102,14 +102,19 @@ router.post('/post/delete', function(req, res) {
   function deleteJSON(obj) {
 
     console.log(obj);
-//     // Function to read in XML file, convert it to JSON, add a new object and write back to XML file
-//     xmlFileToJs('Countries.xml', function(err, result) {
-//       if (err) throw (err);
-//       result.countries.country.push(obj);
-//       jsToXmlFile('Countries.xml', result, function(err) {
-//         if (err) console.log(err);
-//       })
-//     })
+     // Function to read in XML file, convert it to JSON, add a new object and write back to XML file
+     xmlFileToJs('movies.xml', function(err, result) {
+       if (err) throw (err);
+       console.log(result.movies.movie);
+       console.log(obj.row);
+       for(var i in result.movies) {
+         delete result.movies.movie[obj.row-1];
+       }
+       console.log(result.movies);
+       jsToXmlFile('movies.xml', result, function(err) {
+         if (err) console.log(err);
+       })
+     })
   }
 
   // Call appendJSON function and pass in body of the current POST request

@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <movies>
   <movie>
-    <Title>Batman Begins</Title>
-    <Director>Christopher Nolan</Director>
-    <Actors>Christian Bale, Michael Caine, Liam Neeson </Actors>
-    <Release_Year>2008</Release_Year>
-    <Rating> A </Rating>
-    <Plot> A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns 
-          to Gotham intent on cleaning up the city without resorting to murder. With the help of Alfred (Michael Caine), his loyal butler, and Lucius Fox (Morgan Freeman), a tech expert at Wayne Enterprises, Batman is born. </Plot>
-    <Genre>Action </Genre>
-    <Duration>120 minutes</Duration>
-  </movie>
-  <movie>
     <Title> The Dark Knight </Title>
     <Director>Christopher Nolan</Director>
     <Actors>Christian Bale, Michael Caine,Heath Ledger,Gary Oldman</Actors>
@@ -178,5 +167,85 @@
     <Plot>ew</Plot>
     <Genre>wew</Genre>
     <Duration>wew</Duration>
+  </movie>
+  <movie>
+    <Title>asd</Title>
+    <Director>ou</Director>
+    <Actors>ouh</Actors>
+    <Release_Year>ouh</Release_Year>
+    <Rating>ouh</Rating>
+    <Plot>o</Plot>
+    <Genre>uho</Genre>
+    <Duration>uh</Duration>
+  </movie>
+  <movie>
+    <Title/>
+    <Director>qweqwe</Director>
+    <Actors/>
+    <Release_Year/>
+    <Rating/>
+    <Plot>qwerq</Plot>
+    <Genre>qwer</Genre>
+    <Duration/>
+  </movie>
+  <movie>
+    <Title>qwe</Title>
+    <Director/>
+    <Actors/>
+    <Release_Year/>
+    <Rating/>
+    <Plot/>
+    <Genre/>
+    <Duration/>
+  </movie>
+  <movie>
+    <Title/>
+    <Director/>
+    <Actors>  Year of Release   Rating   Plot   Genre   Duration</Actors>
+    <Release_Year/>
+    <Rating/>
+    <Plot/>
+    <Genre/>
+    <Duration/>
+  </movie>
+  <movie>
+    <Title/>
+    <Director/>
+    <Actors/>
+    <Release_Year/>
+    <Rating/>
+    <Plot>https://www.youtube.com/watch?v=6ZfuNTqbHE8</Plot>
+    <Genre/>
+    <Duration/>
+  </movie>
+  <movie>
+    <Title/>
+    <Director/>
+    <Actors/>
+    <Release_Year/>
+    <Rating/>
+    <Plot>https://www.youtube.com/watch?v=6ZfuNTqbHE8</Plot>
+    <Genre/>
+    <Duration/>
+  </movie>
+  <movie>
+    <Title>hi</Title>
+    <Director>d</Director>
+    <Actors>sda</Actors>
+    <Release_Year>sdas</Release_Year>
+    <Rating>dasda</Rating>
+    <Plot>sda</Plot>
+    <Genre>d</Genre>
+    <Duration>s</Duration>
+  </movie>
+  <movie>
+    <Title>daoh</Title>
+    <Director>ad</Director>
+    <Actors>e</Actors>
+    <Release_Year>we</Release_Year>
+    <Rating>erte</Rating>
+    <Plot>rt</Plot>
+    <Genre>rttry</Genre>
+    <Duration>ew45</Duration>
   </movie>
 </movies>
