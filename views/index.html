@@ -103,48 +103,64 @@ li a:hover:not(.active) {
 	<script src="/js/jquery.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
  <script>
+	 var row;
+	 
     function load() {
       $.ajax({
         url: "/get/html",   /* Mikhails example code */
         cache: false,
         success: function(html) {
-          $("#results").append(html);
-          $("#table tbody tr").click( function () {
+					 $("#results").empty();
+           $("#results").append(html);
+           $("#table tbody tr").click( function () {
            $(".selected").removeClass("selected");
             $(this).addClass("selected");
-            var $row=$(this).attr("id");
-              $.ajax({
-                url: "/post/delete",
-                cache: false,
-                type: "POST",
-                data: { row:$row }
-          })
+            	row=$(this).attr("id");
+						
+						
+             
         })
-        }
+       },
+				error: function
       });
+
     };
     $(document).ready(function() {
       load();
+						$("#delete").click( function () {
+           
+			 $.ajax({
+                url: "/post/delete",
+                cache: false,
+                type: "POST",
+                data: { row:row },
+				 				success: function(){
+								load();
+				
+							}
+          })
+		
+			})
     });
   </script>
 	<script>
-		function myFunction() {
-  		var input, filter, table, tr, td, i;
- 		 input = document.getElementById("myInput");
-  	filter = input.value.toUpperCase();
-  	table = document.getElementById("table");
-  	tr = table.getElementsByTagName("tr");
-  		for (i = 0; i < tr.length; i++) {
-    	td = tr[i].getElementsByTagName("td")[0];
-    		if (td) {
-      	if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-     	 } else {
-       	 tr[i].style.display = "none";
-      }
-    }       
-  }
-}
+			function myFunction() {
+				var input, filter, table, tr, td, i;
+					input = document.getElementById("myInput");
+					filter = input.value.toUpperCase();
+					table = document.getElementById("table");
+					tr = table.getElementsByTagName("tr");
+					for (i = 0; i < tr.length; i++) {
+					td = tr[i].getElementsByTagName("td")[0];
+					if (td) {
+					if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+					tr[i].style.display = "";
+				 } else {
+					 tr[i].style.display = "none";
+				}
+			}       
+		}
+	}
 </script>
  
 
