@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <movies>
   <movie>
-
-    <Title>Batman Begins</Title>
-    <Director>Christopher Nolan</Director>
-    <Actors>Christian Bale, Michael Caine, Liam Neeson </Actors>
-    <Release_Year>2008</Release_Year>
-    <Rating> A </Rating>
-    <Plot> A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns 
-          to Gotham intent on cleaning up the city without resorting to murder. With the help of Alfred (Michael Caine), his loyal butler, and Lucius Fox (Morgan Freeman), a tech expert at Wayne Enterprises, Batman is born. </Plot>
-    <Genre>Action </Genre>
-    <Duration>120 minutes</Duration>
-  </movie>
-  <movie>
     <Title> The Dark Knight </Title>
     <Director>Christopher Nolan</Director>
     <Actors>Christian Bale, Michael Caine,Heath Ledger,Gary Oldman</Actors>
@@ -24,7 +12,6 @@
     <Duration> 152 minutes </Duration>
   </movie>
   <movie>
-
     <Title>The Dark Knight Rises</Title>
     <Director>Christian Nolan</Director>
     <Actors>Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Joseph Gordon Levitt</Actors>
@@ -151,4 +138,4 @@
     <Genre>Drama</Genre>
     <Duration>106 minutes</Duration>
   </movie>
- </movies>
+</movies>
