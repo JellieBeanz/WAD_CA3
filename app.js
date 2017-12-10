@@ -1,3 +1,5 @@
+//The JavaScrip code was all built based on the one provided by Mikhail
+
 var http = require('http'),
   path = require('path'),
   express = require('express'),
